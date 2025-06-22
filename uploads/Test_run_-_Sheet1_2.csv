@@ -1,0 +1,32 @@
+Name,Role,Pref1,Pref2,Pref3
+A,Osage,A,D,E
+B,Mohawk,P,G,C
+C,Specialist,H,K,L
+D,Seminole,E,P,M
+E,Junior,Q,P,P
+F,Chic,W,L,H
+G,Hopi,E,J,E
+H,Apache,R,H,Q
+I,Commanche ,T,G,W
+J,Navajo,Y,F,E
+K,Osage,U,D,R
+L,Junior,I,S,T
+M,Seneca,P,A,Y
+N,Seminole,L,Z,U
+O,Junior,J,X,I
+P,Chic,H,C,P
+Q,Specialist,G,V,L
+R,Junior,F,B,G
+S,Commanche ,D,B,F
+T,Specialist,S,N,D
+U,Osage,A,M,S
+V,Specialist,Z,N,A
+W,Seneca,X,H,Z
+X,Seminole,C,E,X
+Y,Shawnee,V,Q,C
+Z,Chic/Cher,B,W,V
+AA,Hopi,B,E,B
+BB,Apache,N,R,B
+CC,Specialist,M,T,N
+DD,Navajo,N,Y,M
+,,,,N

@@ -1,0 +1,32 @@
+Name,Role,Pref1,Pref2,Pref3
+Bob,Osage,Bob,Jim,Jimmy
+Joe,Mohawk,Pob,Polly,George
+George,Specialist,Callan,Kevin,Lenny
+Jim,Seminole,Jimmy,Pob,Max
+Jimmy,Junior,Quavion,Pob,Pob
+Maggie,Chic,Wyatt,Lenny,Callan
+Polly,Hopi,Jimmy,Johnny,Jimmy
+Callan,Apache,Rover,Callan,Quavion
+Oscar,Commanche ,Trevor,Polly,Wyatt
+Johnny,Navajo,Y,Maggie,Jimmy
+Kevin,Osage,Hope,Jim,Rover
+Lenny,Junior,Oscar,Sam,Trevor
+Max,Seneca,Pob,Bob,Y
+Nate,Seminole,Lenny,Z,Hope
+Ostrich,Junior,Johnny,X,Oscar
+Pob,Chic,Callan,George,Pob
+Quavion,Specialist,Polly,Victor,Lenny
+Rover,Junior,Maggie,Joe,Polly
+Sam,Commanche ,Jim,Joe,Maggie
+Trevor,Specialist,Sam,Nate,Jim
+Hope,Osage,Bob,Max,Sam
+Victor,Specialist,Z,Nate,Bob
+Wyatt,Seneca,X,Callan,Z
+X,Seminole,George,Jimmy,X
+Y,Shawnee,Victor,Quavion,George
+Z,Chic/Cher,Joe,Wyatt,Victor
+AA,Hopi,Joe,Jimmy,Joe
+BB,Apache,Nate,Rover,Joe
+CC,Specialist,Max,Trevor,Nate
+DD,Navajo,Nate,Y,Max
+,,,,Nate
