@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Camp Day-Off Scheduler</title>
+  <link rel="stylesheet" href="../static/styles.css">
+</head>
+<body>
+  <h1>Upload Staff Preferences File</h1>
+  <form method="post" enctype="multipart/form-data">
+    <input type="file" name="file" accept=".csv,.xlsx" required>
+    <button type="submit">Generate Schedule</button>
+  </form>
+
+  {% if assignments %}
+    <h2>Day-Off Assignments</h2>
+    {% for group, names in assignments.items() %}
+      <h3>{{ group }}</h3>
+      <ul>
+        {% for name in names %}
+          <li>{{ name }}</li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  {% endif %}
+</body>
+</html>

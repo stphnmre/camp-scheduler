@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 2em;
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
+  h1 {
+    color: #1b4d3e;
+    margin-bottom: 1em;
+  }
+  
+  form {
+    margin-bottom: 2em;
+  }
+  
+  button {
+    padding: 0.5em 1em;
+    background-color: #1b4d3e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #246b55;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  li {
+    background: #e2f0d9;
+    margin: 0.3em 0;
+    padding: 0.5em;
+    border-radius: 4px;
+  }
+  
